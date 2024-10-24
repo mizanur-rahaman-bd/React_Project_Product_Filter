@@ -279,7 +279,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Citrus",
         "gender": "Male",
-        "image": "https://example.com/images/allure_homme_sport.jpg",
+        "image": "https://fragrancebd.com/wp-content/uploads/2018/11/Chanel-Allure-Homme-Sport-Eau-Extreme-EDP-100mL-1.jpg",
         "origin_country": "France"
       },
       {
@@ -292,7 +292,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Woody",
         "gender": "Male",
-        "image": "https://example.com/images/sauvage.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWGXgPOFc32eiC3AZnxunAjwcdLhK28RshsQ&s",
         "origin_country": "France"
       },
       {
@@ -305,7 +305,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Herbal",
         "gender": "Unisex",
-        "image": "https://example.com/images/memoire.jpg",
+        "image": "https://m.media-amazon.com/images/I/615tDSzwcgL._AC_UF1000,1000_QL80_.jpg",
         "origin_country": "Italy"
       },
       {
@@ -319,7 +319,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Citrus",
         "gender": "Unisex",
-        "image": "https://example.com/images/neroli_portofino.jpg",
+        "image": "https://sdcdn.io/tf/tf_sku_TCXM01_2000x2000_1.png?height=700px&options=BackgroundColor%3DF2F2F2&width=700px",
         "origin_country": "USA"
       },
       {
@@ -332,7 +332,7 @@ const alldata = [
         "size": "90ml",
         "fragrance_type": "Spicy",
         "gender": "Female",
-        "image": "https://example.com/images/opium.jpg",
+        "image": "https://fragrancebd.com/wp-content/uploads/2020/03/YSL-Black-Opium-Intense-EDP-90mL.jpg",
         "origin_country": "France"
       },
       {
@@ -345,7 +345,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Woody",
         "gender": "Male",
-        "image": "https://example.com/images/eros.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgbxC87jmZFdYOYevU-GqsYQzY6QzR0n8PLQ&s",
         "origin_country": "Italy"
       },
       {
@@ -359,7 +359,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Gourmand",
         "gender": "Female",
-        "image": "https://example.com/images/burberry_brit.jpg",
+        "image": "https://buyperfumeinbangladesh.com/wp-content/uploads/2019/12/Burberry_Brit-Rhythm-for-Men-300x300.jpg",
         "origin_country": "UK"
       },
       {
@@ -373,7 +373,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Oriental",
         "gender": "Male",
-        "image": "https://example.com/images/code.jpg",
+        "image": "https://codegrooming.com/cdn/shop/files/Acqua_8a153410-5428-4f6d-b2e7-0bcfee055bca.png?v=1713258391",
         "origin_country": "Italy"
       },
       {
@@ -386,7 +386,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Woody",
         "gender": "Male",
-        "image": "https://example.com/images/lhomme.jpg",
+        "image": "https://media.takealot.com/covers_images/b3283b48d43a4c5d92dc2d6cd9b3bca3/s-pdpxl.file",
         "origin_country": "Italy"
       },
       {
@@ -399,7 +399,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Woody",
         "gender": "Male",
-        "image": "https://example.com/images/terre_dhermes.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp5dPyRl-0I7jhI65obVZeogy2ijzAq0YkwQ&s",
         "origin_country": "France"
       },
       {
@@ -412,7 +412,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Woody",
         "gender": "Male",
-        "image": "https://example.com/images/bleu_de_chanel.jpg",
+        "image": "https://redolencenpl.com/wp-content/uploads/2024/04/4-2.jpg",
         "origin_country": "France"
       },
       {
@@ -426,7 +426,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Leather",
         "gender": "Male",
-        "image": "https://example.com/images/fahrenheit.jpg",
+        "image": "https://i0.wp.com/perfumeshop.com.bd/wp-content/uploads/2022/03/1228.jpg?fit=554%2C554&ssl=1",
         "origin_country": "France"
       },
       {
@@ -439,7 +439,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Oud",
         "gender": "Unisex",
-        "image": "https://example.com/images/gucci_oud.jpg",
+        "image": "https://media.theperfumeshop.com/medias/sys_master/prd-images/hf2/hb1/9221923536926/prd-extra2-1179217_420x420/gucci-oud-intense-eau-de-parfum-420x420.jpg",
         "origin_country": "Italy"
       },
       {
@@ -453,7 +453,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Oud",
         "gender": "Unisex",
-        "image": "https://example.com/images/oud_wood.jpg",
+        "image": "https://m.media-amazon.com/images/S/aplus-media/sota/9d4ce8f8-9467-4a9f-a212-cb66123b3391.__CR0,0,970,600_PT0_SX970_V1___.jpg",
         "origin_country": "USA"
       },
       {
@@ -466,7 +466,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Woody",
         "gender": "Male",
-        "image": "https://example.com/images/lhomme_ysl.jpg",
+        "image": "https://fragrancebd.com/wp-content/uploads/2020/02/YSL-Lhomme-EDT-100mL.jpg",
         "origin_country": "France"
       },
       {
@@ -480,7 +480,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Oud",
         "gender": "Male",
-        "image": "https://example.com/images/oud_noir.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXSmLyyeww99O8NiMqBcz5iPmcTklZVii7aw&s",
         "origin_country": "Italy"
       },
       {
@@ -493,7 +493,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Spicy",
         "gender": "Male",
-        "image": "https://example.com/images/london_burberry.jpg",
+        "image": "https://m.media-amazon.com/images/I/71Cb1pnM5xL._AC_UF1000,1000_QL80_.jpg",
         "origin_country": "UK"
       },
       {
@@ -507,7 +507,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Oriental",
         "gender": "Male",
-        "image": "https://example.com/images/emporio_armani.jpg",
+        "image": "https://fragrancebd.com/wp-content/uploads/2024/03/Emporio-Armani-Lui-EDT-100mL.jpg",
         "origin_country": "Italy"
       },
       {
@@ -520,7 +520,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Amber",
         "gender": "Unisex",
-        "image": "https://example.com/images/prada_amber.jpg",
+        "image": "https://decantworldbd.com/wp-content/uploads/2022/12/314QEFgV42L.jpg",
         "origin_country": "Italy"
       },
       {
@@ -534,7 +534,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Woody",
         "gender": "Male",
-        "image": "https://example.com/images/equipage.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3CJrpj__wtrrCSZ3uppqkzjh2Tt0AUCDkiQ&s",
         "origin_country": "France"
       },
       {
@@ -547,7 +547,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Woody",
         "gender": "Male",
-        "image": "https://example.com/images/egoiste.jpg",
+        "image": "https://m.media-amazon.com/images/I/51MCwslDJ5L._SL1024_.jpg",
         "origin_country": "France"
       },
       {
@@ -561,7 +561,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Woody",
         "gender": "Male",
-        "image": "https://example.com/images/dior_homme.jpg",
+        "image": "https://buyperfumeinbangladesh.com/wp-content/uploads/2018/12/Dior-Homme-Intense-EDP-100ml-Bottle.webp",
         "origin_country": "France"
       },
       {
@@ -574,7 +574,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Oud",
         "gender": "Unisex",
-        "image": "https://example.com/images/intense_oud.jpg",
+        "image": "https://theperfumebox.com/cdn/shop/products/wgw4_300x.jpg?v=1643915642",
         "origin_country": "Italy"
       },
       {
@@ -588,7 +588,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Woody",
         "gender": "Male",
-        "image": "https://example.com/images/noir_extreme.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5CtK73MppaUithVXZixx9ucS_r2EgzKD7Ig&s",
         "origin_country": "USA"
       },
       {
@@ -601,7 +601,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Spicy",
         "gender": "Male",
-        "image": "https://example.com/images/la_nuit.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsVdK2XDffs1tX203S1vWy1tPFTSNiBn673g&s",
         "origin_country": "France"
       },
       {
@@ -615,7 +615,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Aromatic",
         "gender": "Male",
-        "image": "https://example.com/images/pour_homme.jpg",
+        "image": "https://m.media-amazon.com/images/I/61KuGoC1t5L._AC_UF1000,1000_QL80_.jpg",
         "origin_country": "Italy"
       },
       {
@@ -628,7 +628,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Woody",
         "gender": "Male",
-        "image": "https://example.com/images/touch.jpg",
+        "image": "https://m.media-amazon.com/images/I/81e0DRVXSuL.jpg",
         "origin_country": "UK"
       },
       {
@@ -641,7 +641,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Oriental",
         "gender": "Male",
-        "image": "https://example.com/images/attitude.jpg",
+        "image": "https://m.media-amazon.com/images/I/61LqKe3Mp1L._AC_UF1000,1000_QL80_.jpg",
         "origin_country": "Italy"
       },
       {
@@ -655,7 +655,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Leather",
         "gender": "Male",
-        "image": "https://example.com/images/lhomme_intense.jpg",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStMYXn3DHoQyJif_ZTd_iKukQ6SGqKv87vtQ&s",
         "origin_country": "Italy"
       },
       {
@@ -668,7 +668,7 @@ const alldata = [
         "size": "100ml",
         "fragrance_type": "Aromatic",
         "gender": "Male",
-        "image": "https://example.com/images/h24.jpg",
+        "image": "https://cdn.riah.ae/storage/upload/images/2023/08/08/64d297f3ea6ee.jpg",
         "origin_country": "France"
       }
   ]
